@@ -22,7 +22,7 @@ As a future cognitive engineer, I also have abilities in UX design and human sys
 ![](https://github-profile-trophy.vercel.app/?username=francoisdomecq&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=francoisdomecq&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=francoisdomecq&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
